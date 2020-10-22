@@ -4,7 +4,7 @@ This GitHub repository contains codes used for NeurIPS 2020 paper 'Learning with
 ## About Code
 
 ### Dependencies:
-    Python version: 
+    Python version: 3.6
     Packages: numpy, scipy
 
 ### File Descriptions:
