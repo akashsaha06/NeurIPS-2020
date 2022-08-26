@@ -36,7 +36,7 @@ To cite this work, you can use the following bibtex entry:
     Packages: numpy, scipy, matplotlib, and time
 
 ### File Descriptions:
-OpMINRES.ipynb contains the implementation of OpMINRES algorithm for a synthetic dataset using generalized operator-valued kernel.
+OpMINRES.ipynb contains the implementation of OpMINRES algorithm for a synthetic dataset using generalized operator-valued kernel. A particular choice of generalized operator-valued kernel has been considered in this implementation. Various other choices based on the kernels considered can be found in the paper.
 
 ### Contact for any query:
     akashsaha@iitb.ac.in
