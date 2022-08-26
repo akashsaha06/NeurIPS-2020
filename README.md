@@ -1,11 +1,11 @@
-# Code for Learning with Operator-valued Kernels in Reproducing Kernel Krein Spaces
+# Code for NeurIPS 2020 Paper: Learning with Operator-valued Kernels in Reproducing Kernel Krein Spaces
 This GitHub repository contains codes used for NeurIPS 2020 paper 'Learning with Operator-valued Kernels in Reproducing Kernel Krein Spaces.'
 
 ## Paper
 [Learning with Operator-valued Kernels in Reproducing Kernel Krein Spaces (NeurIPS 2020)](https://proceedings.neurips.cc/paper/2020/hash/9f319422ca17b1082ea49820353f14ab-Abstract.html)
 
 ### Abstract
-   Operator-valued kernels have shown promise in supervised learning problems with functional inputs and functional outputs. The crucial (and possibly restrictive) assumption of positive definiteness of operator-valued kernels has been instrumentalin developing efficient algorithms. In this work, we consider operator-valued
+   Operator-valued kernels have shown promise in supervised learning problems with functional inputs and functional outputs. The crucial (and possibly restrictive) assumption of positive definiteness of operator-valued kernels has been instrumental in developing efficient algorithms. In this work, we consider operator-valued
 kernels which might not be necessarily positive definite. To tackle the indefiniteness of operator-valued kernels, we harness the machinery of Reproducing Kernel Krein
 Spaces (RKKS) of function-valued functions. A representer theorem is illustrated which yields a suitable loss stabilization problem for supervised learning with
 function-valued inputs and outputs. Analysis of generalization properties of the proposed framework is given. An iterative Operator based Minimum Residual
